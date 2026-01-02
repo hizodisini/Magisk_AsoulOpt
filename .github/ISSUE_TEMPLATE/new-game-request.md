@@ -1,7 +1,7 @@
 ---
-name: New Game Request
-about: Submit a Request for New Game Support
-title: New Game Request
+name: pubg korea
+about:com.pubg.krmobile
+title: pubg korea
 labels: ''
 assignees: ''
 
